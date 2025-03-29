@@ -40,8 +40,9 @@
 
 ### 🚀 Projeto em Destaque
 
-- 🕵️ **Fraud Detection com LGBM + Calibração**  
-  *[Em breve]* Modelo de detecção de fraudes altamente otimizado, com tuning, SMOTE, stacking e calibração.
+- 🕵️ [**Fraud Detection com LGBM + Calibração**](https://github.com/Sugaharaa/fraud-detection)  
+  Modelo de detecção de fraudes com validação cruzada, SMOTE, calibração de probabilidades e métricas robustas (F1 = 0.999).
+
 
 ---
 
