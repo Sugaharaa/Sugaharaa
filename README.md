@@ -42,7 +42,9 @@
 
 - 🕵️ [**Fraud Detection com LGBM + Calibração**](https://github.com/Sugaharaa/fraud-detection)  
   Modelo de detecção de fraudes com validação cruzada, SMOTE, calibração de probabilidades e métricas robustas (F1 = 0.999).
-
+  
+- 🧠 [**Diagnóstico de Hipotireoidismo com Machine Learning**](https://github.com/Sugaharaa/Projeto-Modelagem-Preditiva-para-Diagnostico-de-Hipotireoidismo)  
+  Pipeline completo com LightGBM, PCA, SMOTE e tuning para classificar distúrbios da tireoide. AUC = 0.9878, com forte ênfase na interpretação clínica e robustez do modelo.
 
 ---
 
