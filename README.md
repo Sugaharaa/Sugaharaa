@@ -10,7 +10,6 @@
 
 🎓 Estudante de Engenharia de Computação na **Univesp**  
 🧠 Focado em **modelagem preditiva**, **aprendizado de máquina** e **projetos com dados desbalanceados**  
-💼 Atualmente desenvolvendo um projeto completo de **Detecção de Fraudes com LGBM**  
 🌎 Brasileiro | 30 anos
 
 ---
