@@ -38,12 +38,12 @@
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Projetos em Destaque
 
-- 🕵️ [**Fraud Detection com LGBM + Calibração**](https://github.com/Sugaharaa/fraud-detection)  
+- 🕵️ [**Fraud Detection com LGBM + Calibração**](https://github.com/Sugaharaa/Projetos-de-Modelos-Preditivos/tree/main/fraud-detection)  
   Modelo de detecção de fraudes com validação cruzada, SMOTE, calibração de probabilidades e métricas robustas (F1 = 0.999).
-  
-- 🧠 [**Diagnóstico de Hipotireoidismo com Machine Learning**](https://github.com/Sugaharaa/Projeto-Modelagem-Preditiva-para-Diagnostico-de-Hipotireoidismo)  
+
+- 🧠 [**Diagnóstico de Hipotireoidismo com Machine Learning**](https://github.com/Sugaharaa/Projetos-de-Modelos-Preditivos/tree/main/Hipotireoidismo)  
   Pipeline completo com LightGBM, PCA, SMOTE e tuning para classificar distúrbios da tireoide. AUC = 0.9878, com forte ênfase na interpretação clínica e robustez do modelo.
 
 ---
@@ -51,9 +51,8 @@
 ### 📫 Vamos nos conectar?
 
 - [📧 Email](mailto:lucassugahara.trabalho@gmail.com)  
-- [💼 LinkedIn](https://www.linkedin.com/in/lucas-sugahara-767739352)
+- [💼 LinkedIn](https://www.linkedin.com/in/lucas-sugahara)
 
 ---
 
 <p align="center">Obrigado por visitar meu perfil! ⭐</p>
-
